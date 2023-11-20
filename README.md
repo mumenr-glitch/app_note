@@ -1,9 +1,9 @@
 Instructions for Requesting Data:
 1.	Prepare the quote_request.txt File:
-      o	The microservice reads requests from a file named quote_request.txt. To request a quote, write a line in this file. The format depends on the type of quote you're requesting:
-    	  For a specific topic: Write Topic [Your_Topic]. Replace [Your_Topic] with the desired topic.
-    	  For a specific medium: Write Medium [Your_Medium]. Replace [Your_Medium] with the desired medium.
-    	  For a random quote: Write Random.
+      The microservice reads requests from a file named quote_request.txt. To request a quote, write a line in this file. The format depends on the type of quote you're                requesting:
+    	        For a specific topic: Write Topic [Your_Topic]. Replace [Your_Topic] with the desired topic.
+    	        For a specific medium: Write Medium [Your_Medium]. Replace [Your_Medium] with the desired medium.
+    	        For a random quote: Write Random.
 2.	Example Calls:
       o	Request a quote on a specific topic: echo "Topic Love" > quote_request.txt
       o	Request a quote from a specific medium: echo "Medium Movies" > quote_request.txt
