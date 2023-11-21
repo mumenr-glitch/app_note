@@ -15,5 +15,6 @@ Instructions for Receiving Data:
       o	Read the contents of this file to see the quote.
       o	Example: cat quote_sent.txt
 
-<img width="813" alt="image" src="https://github.com/mumenr-glitch/app_note/assets/98732876/4b390b52-fce2-4112-9147-5a56648207a2">
 
+
+<img width="813" alt="image" src="https://github.com/mumenr-glitch/app_note/assets/98732876/dda4dc9d-f04e-43dc-beaa-8801fcd3f688">
