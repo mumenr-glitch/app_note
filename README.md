@@ -16,5 +16,4 @@ Instructions for Receiving Data:
       o	Example: cat quote_sent.txt
 
 
-
 <img width="813" alt="image" src="https://github.com/mumenr-glitch/app_note/assets/98732876/dda4dc9d-f04e-43dc-beaa-8801fcd3f688">
